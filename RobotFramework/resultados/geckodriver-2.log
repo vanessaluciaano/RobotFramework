@@ -1,0 +1,18 @@
+1714077960093	geckodriver	INFO	Listening on 127.0.0.1:65168
+1714077963148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vanes\\AppData\\Local\\Temp\\rust_mozprofileABneTN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1714077963774	Marionette	INFO	Marionette enabled
+1714077964009	Marionette	INFO	Listening on port 65179
+WebDriver BiDi listening on ws://127.0.0.1:65169
+Read port: 65179
+1714077964247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65169/devtools/browser/6acbdf1c-5fbf-438d-9a6b-1c1665edd84b
+JavaScript warning: https://www.amazon.com.br/, line 2127: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 7164: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714077977800	Marionette	INFO	Stopped listening on port 65179
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/411x8BHUrFL._RC|71jCt5ULbYL.js,019AaNzy9HL.js,01JjHYkAeTL.js,01eOvPdxG7L.js,71NupB9PalL.js,41jBieyCvYL.js,01msRYU+ZHL.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41j6j76ZPUL.js,51H8vCDt+dL.js,31J-NEfNY0L.js,11lEMI5MhIL.js,31+UifI0MIL.js,71-pKfDl0GL.js,41suW241oeL.js,01VYGE8lGhL.js_.js?AUIClients/NavDesktopUberAsset&MgzzHcqF#desktop.language-pt.br.810771-T1.878681-T1.877898-T1, line 122: Script terminated by timeout at:
+onEnter/A<@https://images-na.ssl-images-amazon.com/images/I/411x8BHUrFL._RC|71jCt5ULbYL.js,019AaNzy9HL.js,01JjHYkAeTL.js,01eOvPdxG7L.js,71NupB9PalL.js,41jBieyCvYL.js,01msRYU+ZHL.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41j6j76ZPUL.js,51H8vCDt+dL.js,31J-NEfNY0L.js,11lEMI5MhIL.js,31+UifI0MIL.js,71-pKfDl0GL.js,41suW241oeL.js,01VYGE8lGhL.js_.js?AUIClients/NavDesktopUberAsset&MgzzHcqF#desktop.language-pt.br.810771-T1.878681-T1.877898-T1:122:173
+
+Dynamically enable window occlusion 1

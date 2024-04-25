@@ -1,0 +1,31 @@
+1714077935149	geckodriver	INFO	Listening on 127.0.0.1:65080
+1714077938225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vanes\\AppData\\Local\\Temp\\rust_mozprofileDAelzl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1714077939041	Marionette	INFO	Marionette enabled
+1714077939327	Marionette	INFO	Listening on port 65091
+WebDriver BiDi listening on ws://127.0.0.1:65081
+Read port: 65091
+1714077939684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65081/devtools/browser/591dc9f9-56e9-48af-ad0f-00687e63eb65
+JavaScript warning: https://www.amazon.com.br/, line 2197: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 8325: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714077955059	Marionette	INFO	Stopped listening on port 65091
+JavaScript warning: https://m.media-amazon.com/images/I/61Qj+qFJZ8L.js?AUIClients/AmazonUIjQuery, line 30: Script terminated by timeout at:
+Ea@https://m.media-amazon.com/images/I/61Qj+qFJZ8L.js?AUIClients/AmazonUIjQuery:30:12
+get@https://m.media-amazon.com/images/I/61Qj+qFJZ8L.js?AUIClients/AmazonUIjQuery:156:22
+css@https://m.media-amazon.com/images/I/61Qj+qFJZ8L.js?AUIClients/AmazonUIjQuery:155:233
+c.fn.css/<@https://m.media-amazon.com/images/I/61Qj+qFJZ8L.js?AUIClients/AmazonUIjQuery:153:377
+access@https://m.media-amazon.com/images/I/61Qj+qFJZ8L.js?AUIClients/AmazonUIjQuery:48:255
+c.fn.css@https://m.media-amazon.com/images/I/61Qj+qFJZ8L.js?AUIClients/AmazonUIjQuery:153:312
+g@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11nAhXzgUmL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11uo7qXoO3L.js,01VhK3jZdbL.js,21paGe30x-L.js,01490L6yBnL.js,512ZCVSd+aL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,216zYxN25iL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01Uo-Ze5lKL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:497:519
+update@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11nAhXzgUmL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11uo7qXoO3L.js,01VhK3jZdbL.js,21paGe30x-L.js,01490L6yBnL.js,512ZCVSd+aL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,216zYxN25iL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01Uo-Ze5lKL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:499:408
+m<@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11nAhXzgUmL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11uo7qXoO3L.js,01VhK3jZdbL.js,21paGe30x-L.js,01490L6yBnL.js,512ZCVSd+aL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,216zYxN25iL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01Uo-Ze5lKL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:502:29
+b@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11nAhXzgUmL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11uo7qXoO3L.js,01VhK3jZdbL.js,21paGe30x-L.js,01490L6yBnL.js,512ZCVSd+aL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,216zYxN25iL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01Uo-Ze5lKL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:501:403
+guardTime/<@https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics:115:69
+d</delay/f<@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11nAhXzgUmL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11uo7qXoO3L.js,01VhK3jZdbL.js,21paGe30x-L.js,01490L6yBnL.js,512ZCVSd+aL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,216zYxN25iL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01Uo-Ze5lKL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:16:105
+M/</<@https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics:111:111
+d</delay/<@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11nAhXzgUmL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11uo7qXoO3L.js,01VhK3jZdbL.js,21paGe30x-L.js,01490L6yBnL.js,512ZCVSd+aL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,216zYxN25iL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01Uo-Ze5lKL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:16:209
+
+Dynamically enable window occlusion 1
