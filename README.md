@@ -2,6 +2,12 @@
 
 Este repositório contém os arquivos gerados durante as práticas de testes utilizando o Robot Framework, como parte do curso "Aprenda automatizar testes de aplicativos WEB e APIs com o Robot Framework" da Udemy.
 
+## Sumário
+- [Sobre o Curso](#sobre-o-curso)
+- [Por que Robot Framework?](#por-que-robot-framework)
+- [Comandos Úteis](#comandos-úteis)
+- [Estrutura do Repositório](#estrutura-do-repositório)
+
 ## Sobre o Curso
 
 Neste curso, eu vou automatizar testes de sistemas WEB e APIs utilizando o Robot Framework. Abordando desde conceitos básicos até técnicas avançadas de automação de testes.
