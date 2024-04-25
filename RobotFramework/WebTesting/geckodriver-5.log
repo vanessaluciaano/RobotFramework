@@ -1,0 +1,24 @@
+1714065638432	geckodriver	INFO	Listening on 127.0.0.1:55060
+1714065641535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vanes\\AppData\\Local\\Temp\\rust_mozprofileTBLix8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1714065642484	Marionette	INFO	Marionette enabled
+1714065642832	Marionette	INFO	Listening on port 55073
+WebDriver BiDi listening on ws://127.0.0.1:55061
+Read port: 55073
+1714065643233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55061/devtools/browser/126e2f13-6431-48bc-b3fa-e979673ccf73
+JavaScript error: https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/sf-1.50.92313ac3.js, line 1: Error: Creative script replay not detected within 5000 timeout
+JavaScript error: https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/sf-1.50.92313ac3.js, line 1: Error: Creative script replay not detected within 5000 timeout
+JavaScript warning: https://www.amazon.com.br/, line 2194: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81MTK5Efc4L.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714065672544	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11nAhXzgUmL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11uo7qXoO3L.js,01VhK3jZdbL.js,21paGe30x-L.js,01490L6yBnL.js,512ZCVSd+aL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,216zYxN25iL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01Uo-Ze5lKL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1, line 40: Script terminated by timeout at:
+e@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11nAhXzgUmL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11uo7qXoO3L.js,01VhK3jZdbL.js,21paGe30x-L.js,01490L6yBnL.js,512ZCVSd+aL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,216zYxN25iL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01Uo-Ze5lKL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:40:358
+u@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11nAhXzgUmL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11uo7qXoO3L.js,01VhK3jZdbL.js,21paGe30x-L.js,01490L6yBnL.js,512ZCVSd+aL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,216zYxN25iL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01Uo-Ze5lKL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:41:336
+@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51ExhNVPbdL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,01cS+tLhj4L.js,11rRjDLdAVL.js,51UOrPXYGsL.js,11nAhXzgUmL.js,11UNP9ncXuL.js,1174TO1N7GL.js,11uo7qXoO3L.js,01VhK3jZdbL.js,21paGe30x-L.js,01490L6yBnL.js,512ZCVSd+aL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,216zYxN25iL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01Uo-Ze5lKL.js_.js?AUIClients/AmazonUI&WOBvLLbH#786834-T1:44:466
+
+1714069666427	Marionette	INFO	Stopped listening on port 55073
+Dynamically enable window occlusion 1

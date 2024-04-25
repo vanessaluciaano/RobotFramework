@@ -1,0 +1,19 @@
+1714075111144	geckodriver	INFO	Listening on 127.0.0.1:62853
+1714075114168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vanes\\AppData\\Local\\Temp\\rust_mozprofilehK4VMW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1714075114510	Marionette	INFO	Marionette enabled
+1714075114631	Marionette	INFO	Listening on port 62865
+WebDriver BiDi listening on ws://127.0.0.1:62854
+Read port: 62865
+1714075114787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62854/devtools/browser/841718f6-72e1-411b-a2a5-5b966465ecc8
+JavaScript warning: https://www.amazon.com.br/, line 2166: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s/ref=nb_sb_noss?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Xbox+Series+S, line 6291: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714075125695	Marionette	INFO	Stopped listening on port 62865
+JavaScript warning: https://www.amazon.com.br/s/ref=nb_sb_noss?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Xbox+Series+S, line 6292: Script terminated by timeout at:
+g@https://www.amazon.com.br/s/ref=nb_sb_noss?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Xbox+Series+S:6292:759
+U@https://www.amazon.com.br/s/ref=nb_sb_noss?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=Xbox+Series+S:6292:1057
+
+Dynamically enable window occlusion 1
